@@ -25,24 +25,26 @@
 - Scenario: one decision, use a for something; another decision, use b for something and load another video. 
 - User friendly for clinician
 - AGPL version 3 license
-- 
+
 ## Requirement gathering
-- How did you collect the requirements?
+### How did you collect the requirements?
 - We had a meeting with our clients, and we take down the requirements they have.
-- Mind map about requirements
+### Mind map about requirements
 - https://www.xmind.net/m/TfmL8Z/ 
 - Sent the summary mind map to clients for feedback 
 - Personas
 - HCI PowerPoint
-- 
+
 ### Scenario from Sheena 
 - Imagine these are 360 videos and being used in place of face to face education. 
-- The scenario: My clinical background is as a Dietitian and I specialised in a field known as artificial feeding. 
+#### The scenario
+- My clinical background is as a Dietitian and I specialised in a field known as artificial feeding. 
 - This is where a patient receives nutrition via a feeding tube as they are unable to eat and drink due to an unsafe swallow. 
 - This can either be via a tube into their stomach (NG feeding is an example), or via a tube that delivers nutrients into their blood stream (this is known as TPN).
 
 ### Use cases (HCI PowerPoint)
-- Use case diagram 
+#### Use case diagram 
 - Import video – watch video and add hotspots – save to json file.
 - Load player with package – watch the annotated video
-- List of use cases
+
+#### List of use cases
