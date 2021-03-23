@@ -48,3 +48,9 @@
 - Load player with package – watch the annotated video
 
 #### List of use cases
+
+
+### MosCow List
+- A table for function requirements
+- Another table for non-functional requirements: performance, security, usability, open source, maintainability, extensibility, etc.
+
