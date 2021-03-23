@@ -25,3 +25,4 @@
 - Gantt chart (from October 5 2020 to March 24 2021)
 ## Links to github repos and release zip (for both source code and deliver package)
 - https://github.com/Apperta-IXN-for-the-NHS/SC360Editor2021 
+- Editor Release: https://github.com/UCL-COMP0016-2020-Team-11/editor-software/releases/latest 
